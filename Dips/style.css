@@ -79,3 +79,9 @@ p {
     from { transform: translate(-20%, -20%); }
     to { transform: translate(20%, 20%); }
 }
+
+.site-logo {
+    max-width: 200px; /* Adjust this value to make it bigger or smaller */
+    height: auto;
+    margin-bottom: 10px;
+}
